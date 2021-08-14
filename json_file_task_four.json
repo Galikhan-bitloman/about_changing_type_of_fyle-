@@ -1,0 +1,24 @@
+
+{
+   "table":"GG_RFO.Z_FDOC",
+   "op_type":"I",
+   "op_ts":"2020-11-11 21:29:16.004203",
+   "current_ts":"2020-11-11T21:29:17.336012",
+   "pos":"00000333300036553944",
+   "after":{
+      "ID":296102701069,
+      "CLASS_ID":"FORM_CLIENT",
+      "C_NUM":"209918551",
+      "C_DOC_DATE":"2019-12-23 12:33:48",
+      "C_PARENT_FDOC":null,
+      "C_STATUS_DOC":3704273,
+      "C_DATE_AUDIT":"2020-11-11 21:29:07",
+      "SN":null,
+      "SU":null
+   }
+}
+
+
+
+
+
